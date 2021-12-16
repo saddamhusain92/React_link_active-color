@@ -1,6 +1,12 @@
 a{
   text-decoration: none; 
-  padding:4px; 
-  
+  height: 10px;
+  padding:8px; 
+  color: #444;
+  line-height: 3;
 }
-
+nav{
+  background-color:#ECF0F1;
+  height: 50px;
+  padding:4px; 
+}
